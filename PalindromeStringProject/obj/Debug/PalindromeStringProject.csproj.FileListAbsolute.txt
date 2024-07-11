@@ -1,0 +1,7 @@
+D:\VS Projects GitHub\Palindrome-String-Project\PalindromeStringProject\bin\Debug\PalindromeStringProject.exe.config
+D:\VS Projects GitHub\Palindrome-String-Project\PalindromeStringProject\bin\Debug\PalindromeStringProject.exe
+D:\VS Projects GitHub\Palindrome-String-Project\PalindromeStringProject\bin\Debug\PalindromeStringProject.pdb
+D:\VS Projects GitHub\Palindrome-String-Project\PalindromeStringProject\obj\Debug\PalindromeStringProject.csproj.AssemblyReference.cache
+D:\VS Projects GitHub\Palindrome-String-Project\PalindromeStringProject\obj\Debug\PalindromeStringProject.csproj.CoreCompileInputs.cache
+D:\VS Projects GitHub\Palindrome-String-Project\PalindromeStringProject\obj\Debug\PalindromeStringProject.exe
+D:\VS Projects GitHub\Palindrome-String-Project\PalindromeStringProject\obj\Debug\PalindromeStringProject.pdb
